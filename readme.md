@@ -25,18 +25,6 @@ Implements the secure [signal
 protocol](https://signal.org/docs/specifications/doubleratchet/) to enable the
 end-to-end encryption of file transfers with authentication.
 
-<br>
-<p align="center">
-  <a href="https://github.com/HR/spacedrop/releases/latest">
-    <img src=".github/screen.png">
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/HR/spacedrop/releases/latest">
-    <img src=".github/screen_dark.png">
-  </a>
-</p>
-
 ## Features
 - [x] Peer-to-peer file sharing
 - [x] End-to-end encryption
